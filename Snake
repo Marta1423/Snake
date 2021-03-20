@@ -1,8 +1,10 @@
 package snake;
 
+//Biblioteka
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 
+//Klasa Snake
 public class Snake extends JFrame {
 
     public Snake() {
